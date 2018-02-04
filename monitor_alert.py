@@ -10,7 +10,7 @@
 # the ethos_hostname has to be set or you will get an error
 #
 # written by wokka - 3 Feb 2018
-# no worranty or support comes with this, use it as you want
+# no warranty or support comes with this, use it as you want
 # licensed under GPLv3
 # change the variables accordingly
 
